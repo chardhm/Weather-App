@@ -1,0 +1,88 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  border-radius: 5%;
+  backdrop-filter: blur(1rem);
+  background-color: rgba(255, 255, 255, 0.060);
+  border: .1rem solid rgba(255, 255, 255, 0.18);
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  border-left: 1px solid rgba(255, 255, 255, 0.5);
+  
+}
+
+.card:hover {
+  border: .1rem solid #ffffff;
+}
+
+.card-title {
+  margin-bottom: 15px;
+  color: white;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+
+}
+.colormax {
+  color: rgb(255, 255, 255);
+}
+
+.colormin {
+  color: rgb(255, 255, 255);
+}
+
+.colormax2 {
+  position: relative;
+  display: inline-block;
+  margin: 10px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+
+  padding: 5px 5px;
+
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 600;
+
+  text-shadow: 2px 2px rgba(50, 50, 70, 0.5);
+  text-align: center;
+  box-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.colormin2 {
+  position: relative;
+  display: inline-block;
+  margin: 10px;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 5px;
+
+  padding: 5px 5px;
+
+  color: #FFF;
+  font-size: 16px;
+  font-weight: 600;
+
+  text-shadow: 2px 2px rgba(50, 50, 70, 0.5);
+  text-align: center;
+  box-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.btn {
+  border-radius: 10%;
+  height: 30px;
+  background-color: none;
+  background: none;
+  border: none;
+}
+
+.Clima {
+  justify-content: center;
+}

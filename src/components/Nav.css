@@ -1,0 +1,16 @@
+#logoHenry {
+  margin-right: 20px;
+}
+
+#about {
+  font-size: 20px;
+  color: white;
+  justify-content: end;
+
+}
+
+.navbar-brand {
+  text-decoration: none;
+  color: white;
+}
+

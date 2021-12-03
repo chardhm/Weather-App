@@ -1,0 +1,28 @@
+.container {
+  justify-content: center;
+  margin: 20px;
+  margin-top: 6%;
+  margin-left: 46%;
+  width: 300px;
+  border-radius: 5%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  backdrop-filter: blur(1rem);
+  background-color: rgba(255, 255, 255, 0.060);
+  border: .1rem solid rgba(255, 255, 255, 0.18);
+}
+
+.nombre {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px black;
+    padding-bottom: 15px;
+}
+
+.info {
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px black;
+}
+
+.uno {
+  padding-bottom: 3%;
+}
